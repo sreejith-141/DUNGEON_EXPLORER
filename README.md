@@ -106,40 +106,6 @@ Dungeon-Explorer/
 ```
 
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Java Development Kit (JDK 8 or later).
-- Any Java IDE (VS Code, IntelliJ IDEA, or Eclipse).
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd YOUR-REPOSITORY
-```
-
-3. Compile the Java source file:
-
-```bash
-javac -d out src/Game.java
-```
-
-4. Run the game:
-
-```bash
-java -cp out Game
-```
-
-**Important:** Ensure that the `maps`, `objects`, `player`, and `tiles` directories are accessible from the working directory when running the game.
 
 ## 💾 High Score Management
 
@@ -154,16 +120,16 @@ Dungeon Explorer maintains a record of successful game completions using `HIGHSC
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](Screenshots/main.png)
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](Screenshots/maze.png)
+![Death](Screenshots/death.png)
 
-### Combat
-![Combat](screenshots/combat.png)
+
 
 ### Boss Battle
-![Boss Battle](screenshots/boss-battle.png)
+![Boss Battle](Screenshots/boss.png)
 
 
 ## 🔮 Future Improvements(Maybe)
