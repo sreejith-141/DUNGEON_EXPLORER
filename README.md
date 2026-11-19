@@ -1,5 +1,4 @@
-#  DONWLOAD_INSTRUCTION
-    Inorder to prevent further errors place the Game.jar,maps on same folder
+
 # 🗡️ Dungeon Explorer
 
 **Dungeon Explorer** is a 2D pixel-art dungeon adventure game developed using Core Java and Java Swing. Players explore multiple dungeon levels, collect items, fight monsters, unlock doors, and ultimately defeat the final boss.
